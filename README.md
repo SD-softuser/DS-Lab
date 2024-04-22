@@ -56,3 +56,5 @@ Output
 ```bash
 javac 11.0.14
 ```
+
+for detailed installation or still any difficulty follow this : [Install java on ubuntu]https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-22-04
